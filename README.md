@@ -29,5 +29,7 @@ or
 
 ## reference
 https://github.com/expo/create-react-native-app
+
 https://gist.github.com/dougbacelar/29e60920d8fa1982535247563eb63766
+
 https://github.com/tradle/rn-nodeify
